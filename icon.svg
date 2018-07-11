@@ -1,15 +1,14 @@
 <?xml version="1.0"?>
-<svg version="1.1" width="1000" height="1000" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" width="100" height="100" xmlns="http://www.w3.org/2000/svg">
   <rect fill="black" width="100%" height="100%" />
-  <!-- rgba(255, 255, 255, 0.2) -->
-
+  
   <!-- face -->
-  <path fill="#666" d="M270 100 l-50 70 l0 70 l30 100 l40 0 l0 -100 l-20 -40 Z" />
-  <path fill="#666" d="M320 50 l0 130 l30 70 l0 120 l130 0 l0 140 l-40 110 l-220 90 l50 50 l50 -40 l30 0 l-30 100 l50 90 l70 -30 l-60 -170 l120 30 l110 -30 l-30 150 l90 50 l50 -180 l-160 -140 l-50 -270 l30 0 l20 60 l80 -40 l0 -40 l110 -90 l-250 -50 Z" />
+  <path fill="#666" d="M27 10 l-5 7 l0 7 l3 10 l4 0 l0 -10 l-2 -4 Z" />
+  <path fill="#666" d="M32 5 l0 13 l3 7 l0 12 l13 0 l0 14 l-4 11 l-22 9 l5 5 l5 -4 l3 0 l-3 10 l5 9 l7 -3 l-6 -17 l12 3 l11 -3 l-3 15 l9 5 l5 -18 l-16 -14 l-5 -27 l3 0 l2 6 l8 -4 l0 -4 l11 -9 l-25 -5 Z" />
 
   <!-- right eye -->
-  <path fill="#fff" d="M250 500 l80 60 l40 -10 l40 -40 Z" />
+  <path fill="#fff" d="M25 50 l8 6 l4 -1 l4 -4 Z" />
 
   <!-- left eve -->
-  <path fill="#fff" d="M610 510 l50 50 l90 -60 Z" />
+  <path fill="#fff" d="M61 51 l5 5 l9 -6 Z" />
 </svg>
